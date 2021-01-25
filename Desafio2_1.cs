@@ -8,12 +8,16 @@ public class Program2
 
 		//Entradas
 		Console.Write("Agregue el valor de z");
-		double t = double.Parse(Console.ReadLine());
+		double z = double.Parse(Console.ReadLine());
 
 		Console.Write("Agregue el valor de y");
-		double a = double.Parse(Console.ReadLine());
+		double y = double.Parse(Console.ReadLine());
 
-		//Proce
+		//Procedimiento
+		//Para encontrar t
+		double t = Math.Sqrt((z*z)+(y*y));
+		
+			
 
 	}
 }
