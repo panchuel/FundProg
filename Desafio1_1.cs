@@ -30,6 +30,5 @@ class Program
         //Salidas
 
             Console.WriteLine("El valor de x es: " + x);
-
     }
 }
