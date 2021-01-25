@@ -7,17 +7,13 @@ public class Program2
 		//Programa 1
 
 		//Entradas
-		Console.Write("Agregue el valor de t");
+		Console.Write("Agregue el valor de z");
 		double t = double.Parse(Console.ReadLine());
 
-		Console.Write("Agregue el valor de a");
+		Console.Write("Agregue el valor de y");
 		double a = double.Parse(Console.ReadLine());
 
-		//Angulo c
-		double c = 180 - 90 - a;
-		Console.WriteLine("El angulo a es " + a);
-
-		//Para el lado z (aplicando ley de seno)
+		//Proce
 
 	}
 }
