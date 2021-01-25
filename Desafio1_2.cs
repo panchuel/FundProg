@@ -27,6 +27,8 @@ class Program
             double cR = c * (Math.PI / 180);
             //para encontrar z
             double z = Math.Tan(cR) * y;
+            
+        //Salida
             Console.WriteLine("El valor de z es: " + z);
     }
 }
