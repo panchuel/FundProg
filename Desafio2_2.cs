@@ -16,10 +16,11 @@
 		//Procedimiento
 			//Angulo c
 			double c = 180 - 90 - a;			
-			//Para el lado z (aplicando ley de seno)
-			double z = t * Math.Sin(a);			
-			//Para el lado  y 
-			double y = Math.Sqrt((t * t) - (z * z));			
+			//Para el lado y (aplicando ley de seno)
+			double aR = a * (Math.PI / 180);
+			double y = t * Math.Sin(aR);			
+			//Para el lado  z 
+			double z = Math.Sqrt((t * t) - (y * y));			
 		
 		//Salida
 			//Para el angulo c
