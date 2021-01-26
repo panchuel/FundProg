@@ -5,6 +5,8 @@ class Program
     //Programa 3
 	static void Main()
     {
+		//Video https://youtu.be/96-LVsMuYKE
+		
 		//Entradas
 			//Para z
 			Console.WriteLine("Agregue el valor de z");
