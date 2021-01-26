@@ -5,6 +5,8 @@
 	//Programa 2
 	public static void Main()
 	{
+		//Video https://youtu.be/Zwu5V8Hev_I
+		
 		//Entradas
 			//Para t
 			Console.WriteLine("Agregue el valor de t");
