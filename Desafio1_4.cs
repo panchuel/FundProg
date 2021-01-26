@@ -4,6 +4,9 @@ class Program
 {
     static void Main()
     {
+        //Videos https://youtu.be/SrKGKK9Lnco
+        //https://youtu.be/LHgDZmq0O8A
+        
         //Entradas 
             //Para w
             Console.WriteLine("Ingrese el valor de w: ");
