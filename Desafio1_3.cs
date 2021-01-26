@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+        //Video https://youtu.be/8iYWxngcguU
         //Entradas 
             Console.WriteLine("Ingrese w, d°, x:");
             //Para w
