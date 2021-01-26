@@ -4,6 +4,8 @@ class Program
 {
     static void Main()
     {
+        //Video https://youtu.be/ZXh1llIzQ1A
+        
         //Entradas
 
             //Para b
