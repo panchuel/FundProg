@@ -4,6 +4,7 @@ class Program
 {
 	static void Main(string[] args)
 	{
+		//Video https://youtu.be/H4NZWoQVMpo
 		//Entradas
 			//Para y
 			Console.WriteLine("Agregue el valor de y");
