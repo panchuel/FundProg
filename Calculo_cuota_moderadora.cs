@@ -6,6 +6,7 @@ namespace Calculo_cuota_moderadora
     {
         static void Main()
         {
+            //Video: https://youtu.be/r4FYPRYNr0U
             //Entradas
             int smmv = 908526;
             Console.WriteLine("Ingrese su salario");
