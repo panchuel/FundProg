@@ -6,6 +6,7 @@ namespace Calculo_de_tarifa
     {
         static void Main()
         {
+            //Video https://youtu.be/tGZrxXvNR2o
             //Entradas
             int smmv = 908526;
             Console.WriteLine("Ingrese su salario");
