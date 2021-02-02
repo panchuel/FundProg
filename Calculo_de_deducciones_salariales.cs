@@ -6,6 +6,7 @@ namespace Calculo_de_deducciones_salariales
     {
         static void Main()
         {
+            //Video https://youtu.be/g3dLZXjTo-M
             //Entradas
             Console.WriteLine("Ingrese su salario");
             int salario_mensual = int.Parse(Console.ReadLine());
