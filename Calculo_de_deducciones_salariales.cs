@@ -56,7 +56,7 @@ namespace Calculo_de_deducciones_salariales
                         }
                         if(riesgo_laboral == 2)
                         {
-                            arl = 0.10144;
+                            arl = 0.010144;
                             deducciones = (base_de_cotizacion * pension) + (base_de_cotizacion * eps) + (base_de_cotizacion * arl);
                             salario_real_mensual = salario_mensual - deducciones;
                             salario_anual = salario_real_mensual * 12;
@@ -65,7 +65,7 @@ namespace Calculo_de_deducciones_salariales
                         }
                         if(riesgo_laboral == 3)
                         {
-                            arl = 0.2436;
+                            arl = 0.02436;
                             deducciones = (base_de_cotizacion * pension) + (base_de_cotizacion * eps) + (base_de_cotizacion * arl);
                             salario_real_mensual = salario_mensual - deducciones;
                             salario_anual = salario_real_mensual * 12;
