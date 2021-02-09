@@ -6,6 +6,7 @@ namespace Deducciones_Switch
     {
         static void Main()
         {
+            //Video: https://youtu.be/VK6qa8SN2kk
             //Entradas
             Console.WriteLine("Ingrese su salario");
             int salario_mensual = int.Parse(Console.ReadLine());
