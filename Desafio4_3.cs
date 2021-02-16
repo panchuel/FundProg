@@ -6,6 +6,8 @@ namespace Desafio4_3
     {
         static void Main()
         {
+            //Video: https://youtu.be/14Nb9DW8FR4
+            
             Console.WriteLine("Vamos a jugar! \n Para ganar necesitas cumplir una de las siguientes condiciones: \n" +
                 "-Debes obtener 100 o más puntos \n -Si sacas 12 y en el turno siguiente sacas 10 \n " +
                 "Ten en cuenta que después del tercer turno si sacas un número impar pierdes");
