@@ -6,6 +6,8 @@ namespace Desafio4_2
     {
         static void Main()
         {            
+            //Video: https://youtu.be/ND-A_qiYHXg
+            
             Console.WriteLine("Juguemos! \nDebes alzanar una de las siguientes condiciones para ganar: \n" +
             "-Debes llegar a 100 puntos (o más) \n-Si sacas 3 dados dobles seguidos \nAdemás ten en cuenta que pierdes" +
             "si ambos dados son uno (1) \n\n");
