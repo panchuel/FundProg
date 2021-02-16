@@ -6,6 +6,8 @@ namespace Desafio4_1
     {
         static void Main()
         {
+            //Video: https://youtu.be/6-amOo0NgBE
+            
             double total = 0;
             Console.WriteLine("Ingrese el número de datos (n): ");
             int n = int.Parse(Console.ReadLine());
