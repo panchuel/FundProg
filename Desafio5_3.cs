@@ -6,6 +6,7 @@ namespace Desafio5_3
     {
         static void Main()
         {
+            //Video https://youtu.be/CmWvuZoJVL8
             double resultado = 0;
             Console.WriteLine("Ingrese el valor de x: ");
             double x = double.Parse(Console.ReadLine());
