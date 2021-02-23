@@ -6,6 +6,7 @@ namespace Desafio5_1
     {
         static void Main()
         {
+            //Video https://youtu.be/f54ZcDIYRqc
             Console.WriteLine("Bienvenido, juguemos");
             Random aleatorio = new Random();
             string continuar = "s";
