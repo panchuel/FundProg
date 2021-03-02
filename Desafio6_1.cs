@@ -6,6 +6,7 @@ namespace Desafio6_1
     {
         static void Main()
         {
+            //Video https://youtu.be/5kSvnsGkPAg
             Console.WriteLine("Juguemos! \nDebes alzanar una de las siguientes condiciones para ganar: \n" +
             "-Debes llegar a 100 puntos (o más) \nAdemás ten en cuenta que pierdes una vida si sacas dos veces uno (1)\n");
             string continuar = "s", usarDado = "";
