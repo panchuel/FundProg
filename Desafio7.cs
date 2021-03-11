@@ -6,6 +6,7 @@ namespace Desafio7
     {
         static void Main()
         {
+            //Video: https://youtu.be/4_JP6_QLKPY
             int vecesEncontrada = 0;
             string frase = "", palabra = "";
             
